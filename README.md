@@ -17,7 +17,6 @@ Traditional lenders are slowing down due to increased regulation, opening up opp
 ## Project Goals
 
 - Streamline approval processes for low-risk loans
-- Assign fair pricing tiers (interest rates) based on predicted risk
 - Flag and monitor high-risk loans for portfolio management
 
 ---
@@ -192,3 +191,4 @@ For educational purposes only
 - Asif Shahzad  
 - José Traboulsi  
 - Karla Lopez Marin
+
